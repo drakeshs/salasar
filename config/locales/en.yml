@@ -3,7 +3,6 @@
 
 en:
 #################### Below code for currency changes in shipping method #################################### 
-
  number:
     # Used in number_to_currency()
     currency:
@@ -17,4 +16,3 @@ en:
         precision: 2
 
 ############################ End of the currency symbol change #########################################
-        

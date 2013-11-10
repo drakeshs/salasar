@@ -5,6 +5,6 @@
 
 # Deface::Override.new(:virtual_path  => "spree/checkout/_summary",
 #     			       :name          => "shipping_transport",
-# 				       :replace => "erb[loud]:contains('%w(shipping)')",
+# 				       :replace => "erb[loud]:contains('adjustment.label')",
 # 				       :text   =>  "Transport"
 #                     ) 
